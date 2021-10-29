@@ -1,5 +1,5 @@
 # Postapokalyptisk rovdjur-bytesdjursimulation med tre aktörer
-Simuleringen kommer att innefatta en rovdjur{bytesdjursimulation på en kontinent med tre aktörer,
+Simuleringen kommer att innefatta en rovdjur-bytesdjursimulation på en kontinent med tre aktörer,
 de tre aktörerna är: föda, människa och odöd (zombie). Kontinenten förenklas till en rektangel som
 delas upp i mindre kvadratiska delområden, varje delområde ockuperas av en aktör eller om ingen
 aktör ockuperar delområdet är delområdet "tomt". 
